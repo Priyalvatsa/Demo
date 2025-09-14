@@ -1,2 +1,3 @@
 # Demo
-Diving more into Github
+Diving more into GitHub
+Author - Priyal Vatsa
